@@ -31,8 +31,8 @@ Here is the main guide: https://swisstronik.gitbook.io/swisstronik-docs/developm
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Leihyn/swissERC20.git
-cd erc20-token-swisstronik
+git clone https://github.com/Leihyn/swissPERC20.git
+cd perc20-token-swisstronik
 ```
 
 ### 2. Install dependencies
